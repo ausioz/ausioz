@@ -1,5 +1,6 @@
 ### Salam 👋
-<h1>Saya Ausi<br/><a href="https://github.com/ausioz">Native Android Developer</a>, <a href="https://www.linkedin.com/in/nuaim-hammad-ausi-149a1a151/">Land Surveyor-Geospatial Engineer</a>
+<h1>Saya Ausi<br/>
+  <a href="https://github.com/ausioz">Native Android Developer</a>, <a href="https://www.linkedin.com/in/nuaim-hammad-ausi-149a1a151/">Land Surveyor-Geospatial Engineer</a>
 <h2>👨‍💻 Personal Android Development Projects:</h2>
 
 - <b>Camera Geotagging</b>
