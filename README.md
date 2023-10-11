@@ -1,6 +1,6 @@
 ### Salam 👋
 <h1>I am Ausi<br/>
-  <a href="https://github.com/ausioz">Native Android Developer</a>, <a href="https://www.linkedin.com/in/nuaim-hammad-ausi-149a1a151/">Land Surveyor-Geospatial Engineer</a>
+  <a href="https://github.com/ausioz">Native Android Developer</a>, Binar Academy Graduate : Android Engineering, <a href="https://www.linkedin.com/in/nuaim-hammad-ausi-149a1a151/">Land Surveyor-Geospatial Engineer</a>
 <h2>👨‍💻 Personal Android Development Projects:</h2>
 
 - <b>Camera Geotagging</b>
@@ -22,6 +22,7 @@
   - Maps API on Android
   - AR/VR Geospatial on Android
   - IoT on Android
+
 
 <!--
 **ausioz/ausioz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
