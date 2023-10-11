@@ -12,7 +12,7 @@
 - <b>Simple Calculator</b>
   - [Calculator App Using MVVM-patern](https://github.com/ausioz/BasicCalculatorMVVM)
 - <b>Game Suit</b>
-  - [Rock, Paper, Scisor App](https://github.com/ausioz/BinarCh3GameSuit)
+  - [Rock, Paper, Scissor App](https://github.com/ausioz/BinarCh3GameSuit)
 - <b>RTK-GPS+</b>
   - [Measure position using External GPS - port](https://github.com/ausioz/RtkGps)
  
