@@ -1,5 +1,5 @@
 ### Salam 👋
-<h1>Saya Ausi<br/>
+<h1>I am Ausi<br/>
   <a href="https://github.com/ausioz">Native Android Developer</a>, <a href="https://www.linkedin.com/in/nuaim-hammad-ausi-149a1a151/">Land Surveyor-Geospatial Engineer</a>
 <h2>👨‍💻 Personal Android Development Projects:</h2>
 
@@ -15,6 +15,13 @@
   - [Rock, Paper, Scisor App](https://github.com/ausioz/BinarCh3GameSuit)
 - <b>RTK-GPS+</b>
   - [Measure position using External GPS - port](https://github.com/ausioz/RtkGps)
+ 
+<h2>🤔 I'm Currently Interested in </h2>
+
+  - Geotagging
+  - Maps API on Android
+  - AR/VR Geospatial on Android
+  - IoT on Android
 
 <!--
 **ausioz/ausioz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
