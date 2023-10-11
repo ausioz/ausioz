@@ -1,4 +1,19 @@
-### Hi there 👋
+### Salam 👋
+<h1>Saya Ausi<br/><a href="https://github.com/ausioz">Native Android Developer</a>, <a href="https://www.linkedin.com/in/nuaim-hammad-ausi-149a1a151/">Land Surveyor-Geospatial Engineer</a>
+<h2>👨‍💻 Personal Android Development Projects:</h2>
+
+- <b>Camera Geotagging</b>
+  - [Using Location Service, CameraX, and Exif Gallery](https://github.com/ausioz/CameraGeotagging)
+- <b>Catat Toko</b>
+  - [CRUD App using Firebase and Room](https://github.com/ausioz/CatatTokoMVVM) 
+- <b>Movie App</b>
+  - [REST API, Retrofit, Dependency Injection Project](https://github.com/ausioz/MovieApp)
+- <b>Simple Calculator</b>
+  - [Calculator App Using MVVM-patern](https://github.com/ausioz/BasicCalculatorMVVM)
+- <b>Game Suit</b>
+  - [Rock, Paper, Scisor App](https://github.com/ausioz/BinarCh3GameSuit)
+- <b>RTK-GPS+</b>
+  - [Measure position using External GPS - port](https://github.com/ausioz/RtkGps)
 
 <!--
 **ausioz/ausioz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
