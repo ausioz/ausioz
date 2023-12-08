@@ -4,6 +4,8 @@
   
 <h2>👨‍💻 Personal Android Development Projects:</h2>
 
+- <b>Github User Search</b>
+  - [REST API, Retrofit, UI & Unit Test, DataStore](https://github.com/ausioz/GithubUserSearch)
 - <b>Camera Geotagging</b>
   - [Using Location Service, CameraX, and Exif Gallery](https://github.com/ausioz/CameraGeotagging)
 - <b>Catat Toko</b>
