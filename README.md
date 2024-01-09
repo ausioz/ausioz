@@ -6,12 +6,12 @@
 
 - <b>Github User Search</b>
   - [REST API, Retrofit, UI & Unit Test, DataStore](https://github.com/ausioz/GithubUserSearch)
-- <b>Camera Geotagging</b>
-  - [Using Location Service, CameraX, and Exif Gallery](https://github.com/ausioz/CameraGeotagging)
 - <b>Catat Toko</b>
   - [CRUD App using Firebase and Room](https://github.com/ausioz/CatatTokoMVVM) 
 - <b>Movie App</b>
   - [REST API, Retrofit, Dependency Injection Project](https://github.com/ausioz/MovieApp)
+- <b>Camera Geotagging</b>
+  - [Using Location Service, CameraX, and Exif Gallery](https://github.com/ausioz/CameraGeotagging)
 - <b>Simple Calculator</b>
   - [Calculator App Using MVVM-patern](https://github.com/ausioz/BasicCalculatorMVVM)
 - <b>Game Suit</b>
