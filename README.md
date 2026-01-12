@@ -1,8 +1,8 @@
-### Salam 👋
+### Salam 
 <h1>I am Ausi<br/>
   <a href="https://github.com/ausioz">Native Android Developer</a>, <a href="https://www.linkedin.com/in/nuaim-hammad-ausi-149a1a151/">Land Surveyor-Geospatial Engineer</a>
   
-<h2>👨‍💻 Personal Android Development Projects:</h2>
+<h2>Personal Android Development Projects:</h2>
 
 - <b>Github User Search</b>
   - [REST API, Retrofit, UI & Unit Test, DataStore](https://github.com/ausioz/GithubUserSearch)
@@ -19,25 +19,8 @@
 - <b>RTK-GPS+</b>
   - [Measure position using External GPS - port](https://github.com/ausioz/RtkGps)
  
-<h2>🤔 I'm Currently Interested in </h2>
+<h2>I'm Currently Interested in </h2>
 
   - Geotagging
   - Maps API on Android
   - AR/VR Geospatial on Android
-  - IoT on Android
-
-
-<!--
-**ausioz/ausioz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
